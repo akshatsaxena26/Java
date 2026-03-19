@@ -1,6 +1,6 @@
 package Patterns;
 
-public class Patttern12 {
+public class Pattern12 {
 
     public static void pattern12(int number) {
         int spaceSize = number - 1;

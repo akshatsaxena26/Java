@@ -7,4 +7,8 @@
  * 
  * .3. MID FORMULAE MID =(N/2) +1.
  * 
+ * FORMULAE
+ * oddno.sq =(2*i)+1;
+ * num=(n-i)+1;
+ * 
  */
