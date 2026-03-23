@@ -1,7 +1,7 @@
 package Patterns;
 
-public class Pattern17 {
-    public static void pattern17(int number) {
+public class Pattern18 {
+    public static void pattern18(int number) {
         int spaces = number - 1;
         int patternSize = 1;
 
@@ -33,7 +33,7 @@ public class Pattern17 {
     public static void main(String[] args) {
 
         int number = 5;
-        pattern17(number);
+        pattern18(number);
 
     }
 }
