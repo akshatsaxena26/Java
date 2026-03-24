@@ -30,6 +30,8 @@ public class Pattern18 {
 
     }
 
+    // This pattern is not completed
+
     public static void main(String[] args) {
 
         int number = 5;
