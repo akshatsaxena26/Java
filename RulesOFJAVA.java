@@ -28,7 +28,7 @@
  * 
  * 
  * For odd Sequence for positive num = num + 2*i+1; (M--)
- *  1
+ * 1
  * 3 2
  * 6 5 4
  * 10 9 8 7
@@ -37,10 +37,10 @@
  * 
  * 
  * For odd Sequence in negative num = num - (2*i+1); (M++)
- *  15
+ * 15
  * 13 14
  * 10 11 12
- * 6 7 8  9
+ * 6 7 8 9
  * 1 2 3 4 5
  * 
  * 
@@ -62,5 +62,16 @@
  * COLOUMN MID = (PatternsSIZE/2) +1
  * 
  * 
+ * PRIME NUMBER AND FACTOR
+ * N=84
+ * LOOP = I=1 TO SQUAREROOT OF n
+ * I=2 TO SQUAREROOT OF n
+ * 
+ * 1 84
+ * 2 42
+ * 3 28
+ * 4 21
+ * 6 14
+ * 7 12
  * 
  */
