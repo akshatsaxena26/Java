@@ -74,4 +74,10 @@
  * 6 14
  * 7 12
  * 
+ * 
+ * n=56
+ * ALL FACTORS =1,2,4,7,8,14,28,56
+ * RULES: ALL FACTORS OF A NUMBER WILL BE IN RANGE OF 2 TO SQUAREROOT OF N.
+ * I*I=<=N; IT
+ * 
  */
