@@ -80,4 +80,13 @@
  * RULES: ALL FACTORS OF A NUMBER WILL BE IN RANGE OF 2 TO SQUAREROOT OF N.
  * I*I=<=N; IT
  * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
  */
